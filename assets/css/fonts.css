@@ -1,0 +1,23 @@
+@charset 'UTF-8';
+
+@font-face {
+	font-family: 'Titillium Web';
+	font-weight: 700;
+	font-display: swap;
+	src: url('/assets/fonts/titillium-web/titillium-web-bold.woff2') format('woff2'),
+	     url('/assets/fonts/titillium-web/titillium-web-bold.woff') format('woff');
+}
+@font-face {
+	font-family: 'Titillium Web';
+	font-weight: 400;
+	font-display: swap;
+	src: url('/assets/fonts/titillium-web/titillium-web-regular.woff2') format('woff2'),
+	     url('/assets/fonts/titillium-web/titillium-web-regular.woff') format('woff');
+}
+@font-face {
+	font-family: 'Titillium Web';
+	font-weight: 200;
+	font-display: swap;
+	src: url('/assets/fonts/titillium-web/titillium-web-extralight.woff2') format('woff2'),
+	     url('/assets/fonts/titillium-web/titillium-web-extralight.woff') format('woff');
+}
